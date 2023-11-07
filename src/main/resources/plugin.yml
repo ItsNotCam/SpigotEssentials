@@ -1,0 +1,9 @@
+name: CamEssentials
+version: 1
+main: cam.vrc.essentials.CamEssentials
+api-version: 1.20
+
+commands:
+  dviewer:
+    description: Commands for Durability Viewer
+    usage: /dview
